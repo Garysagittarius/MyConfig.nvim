@@ -1,6 +1,6 @@
 # Neovim Config
 
-Its a Neovim configuration which i made for competitive programming in mind if u interested in using the config follow the steps:-
+Its a Neovim configuration which I made for competitive programming in mind if you interested in using the config follow the steps:-
 
 1. git clone https://github.com/Garysagittarius/MyConfig.nvim
 
@@ -12,7 +12,7 @@ Its a Neovim configuration which i made for competitive programming in mind if u
 
 5. Make sure to install [Packer](https://github.com/wbthomason/packer.nvim) and run ```:PackerSync```
 
-6. Then add language servers of ur choice in the ~/.config/nvim/after/lsp.server and install them in ur system
+6. Then add language servers of your choice in the ~/.config/nvim/after/lsp.server and install them in your system
 
 ## ScreenShots
 <p float="left">
